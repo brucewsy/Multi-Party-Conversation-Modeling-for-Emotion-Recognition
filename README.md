@@ -1,0 +1,1 @@
+This repository contains the implementation of the paper Multi-Party Conversation Modeling for Emotion Recognition.
